@@ -1,6 +1,7 @@
 Blog Application
 
-    This is a simple blog application built using Django, a Python-based web framework. The application allows users to create, read, update, and delete blog posts, as well as view a list of all posts on the home page.
+    This is a simple blog application built using Django, a Python-based web framework. 
+    The application allows users to create, read, update, and delete blog posts, as well as view a list of all posts on the home page.
 
 Installation
 
